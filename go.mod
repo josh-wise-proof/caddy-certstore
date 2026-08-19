@@ -1,4 +1,4 @@
-module github.com/hurricanehrndz/caddy-certstore
+module github.com/josh-wise-proof/caddy-certstore
 
 go 1.26.1
 
